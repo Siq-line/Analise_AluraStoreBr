@@ -28,9 +28,16 @@ O dataset inclui as seguintes informações:
 
 O projeto possui 4 arquivos .csv
 
-A análise foi conduzida em Pandas
+A análise foi conduzida com a biblioteca Pandas
 
 Matplolib para construção dos gráficos
+
+## Como Usar
+Baixar o arquivo Analise_AluraStorBr.ipynb
+Abra o arquivo no Colab Google
+
+
+
 
 
 
