@@ -34,6 +34,7 @@ Matplolib para construção dos gráficos
 
 ## Como Usar
 Baixar o arquivo Analise_AluraStorBr.ipynb
+
 Abra o arquivo no Colab Google
 
 
